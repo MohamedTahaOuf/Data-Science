@@ -19,10 +19,10 @@
 
 7- Using the perfect algorithm : In this step we should try many algorithms to get the perfect one, Fortunately we have Sklearn laibrary.
 
-8- Predict and evaluate : Here we figure out if the algorithm we use is need to change some parameters or change it all by using the evalution models for :
-> 1- Regression such as mean absoulte error or mean squared error.
+8- Predict and evaluate : Here we figure out if the algorithm we use is need to change some parameters or change it all by using the evalution models in sklearn for :
+> 1- Regression such as mean absolute error or mean squared error ... etc.
 > 
-> 2- Classifiaction such as accurcy score , AUC , confustion matrix ... etc.
+> 2- Classification such as accuracy score , AUC , confusion matrix ... etc.
 
 ### Now i will share with you some of my work in ML and data analysis:
 
