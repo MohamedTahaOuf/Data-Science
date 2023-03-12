@@ -1,4 +1,4 @@
-# Data science projects:
+# Data science pipline & projects :
 
 ### In this repo i will share with you some of the task list that i have achived using pyhton and SQL but Firstly I would like to give you the pipline that we should take to get the best output :
 
