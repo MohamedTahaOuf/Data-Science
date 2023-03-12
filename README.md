@@ -13,13 +13,15 @@
 
 4- Convert the data into number: In this step we will transform into machine learning and using the algorithm to predict the values, So we should convert any objeact values into number.
 
-5- Split the data into X (Features) and y (Label).
+5- Feature selection : In this step we will use the tools of sklearn to select the appropriate features such as feature importances , correlation..etc.
 
-6- Train test split : This is used to split the data into traing data and this data is seen by the algorithm to train on it, And the test data is not provided to the algorithm to make sure that the algorithm is not only saved the answer.
+6- Split the data into X (Features) and y (Label).
 
-7- Using the perfect algorithm : In this step we should try many algorithms to get the perfect one, Fortunately we have Sklearn laibrary.
+7- Train test split : This is used to split the data into traing data and this data is seen by the algorithm to train on it, And the test data is not provided to the algorithm to make sure that the algorithm is not only saved the answer.
 
-8- Predict and evaluate : Here we figure out if the algorithm we use is need to change some parameters or change it all by using the evalution models in sklearn for :
+8- Using the perfect algorithm : In this step we should try many algorithms to get the perfect one, Fortunately we have Sklearn laibrary.
+
+9- Predict and evaluate : Here we figure out if the algorithm we use is need to change some parameters or change it all by using the evalution models in sklearn for :
 > 1- Regression such as mean absolute error or mean squared error ... etc.
 > 
 > 2- Classification such as accuracy score , AUC , confusion matrix ... etc.
