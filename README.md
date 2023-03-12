@@ -28,8 +28,8 @@
 
 ### Now i will share with you some of my work in ML and data analysis:
 
-- [x] [1- Melbourne house regression](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/1-%20melbourne-house-gridsearchcv-randomforestregressor.ipynb).
+- [x] [1- Melbourne house - Regression](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/1-%20melbourne-house-gridsearchcv-randomforestregressor.ipynb).
 
-- [x] [2- Titanic classification](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/2-%20titanic-eda-ml.ipynb).
+- [x] [2- Titanic - Classification](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/2-%20titanic-eda-ml.ipynb).
 
-- [x] [3- stroke classification](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/3-%20stroke-database.ipynb).
+- [x] [3- stroke - Classification](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/3-%20stroke-database.ipynb).
