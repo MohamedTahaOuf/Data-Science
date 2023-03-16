@@ -33,3 +33,5 @@
 - [x] [2- Titanic - Classification](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/2-%20titanic-eda-ml.ipynb).
 
 - [x] [3- stroke - Classification](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/3-%20stroke-database.ipynb).
+
+- [x] [4- Bikeshare - Pyhton project](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/4-%20bikeshare%20-%20Udacity.ipynb).
