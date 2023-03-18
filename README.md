@@ -35,3 +35,5 @@
 - [x] [3- stroke - Classification](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/3-%20stroke-database.ipynb).
 
 - [x] [4- Bikeshare - Pyhton project](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/4-%20bikeshare%20-%20Udacity.ipynb).
+
+- [x] [5- European soccer - SQL](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/5-%20European%20soccer-SQL.ipynb).
