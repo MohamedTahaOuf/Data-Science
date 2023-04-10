@@ -37,3 +37,8 @@
 - [x] [4- Bikeshare - Pyhton project](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/4-%20bikeshare%20-%20Udacity.ipynb).
 
 - [x] [5- European soccer - SQL](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/5-%20European%20soccer-SQL.ipynb).
+
+- [x] [6- imdb-data-analysis-EDA](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/6-%20imdb-data-analysis-eda.ipynb).
+
+- [x] [7- no-show-appointment-EDA](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/7-%20no-show-appointment.ipynb).
+
