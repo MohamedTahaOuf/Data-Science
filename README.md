@@ -42,3 +42,5 @@
 
 - [x] [7- no-show-appointment-EDA](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/7-%20no-show-appointment.ipynb).
 
+- [x] [8- credit-card-fraud - imbalanced data](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/8-%20credit-card-fraud-oversampling-undersampling.ipynb).
+
