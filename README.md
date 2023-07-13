@@ -40,9 +40,9 @@
 
 - [x] [6- imdb-data-analysis-EDA](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/6-%20imdb-data-analysis-eda.ipynb).
 
-- [x] [7- no-show-appointment-EDA](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/7-%20no-show-appointment.ipynb).
+- [x] [7- no-show-appointment-EDA](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/009-%20sales-store-dataset.ipynb).
 
-- [x] [8- credit-card-fraud - imbalanced data](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/8-%20credit-card-fraud-oversampling-undersampling.ipynb).
+- [x] [8- credit-card-fraud - imbalanced data](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/010-%20enzyme-substrate-dataset-tree.ipynb).
 
 - [x] [9- sales-store-dataset](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/8-%20credit-card-fraud-oversampling-undersampling.ipynb).
 
