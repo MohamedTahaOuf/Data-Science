@@ -44,7 +44,7 @@
 
 - [x] [8- credit-card-fraud - imbalanced data](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/8-%20credit-card-fraud-oversampling-undersampling.ipynb).
 
-- [x] [9- sales-store-dataset]([https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/8-%20credit-card-fraud-oversampling-undersampling.ipynb](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/009-%20sales-store-dataset.ipynb).
+- [x] [9- sales-store-dataset](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/8-%20credit-card-fraud-oversampling-undersampling.ipynb).
 
 
-- [x] [10- enzyme-substrate-dataset-tree]([https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/8-%20credit-card-fraud-oversampling-undersampling.ipynb](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/010-%20enzyme-substrate-dataset-tree.ipynb)https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/010-%20enzyme-substrate-dataset-tree.ipynb).
+- [x] [10- enzyme-substrate-dataset-tree](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/8-%20credit-card-fraud-oversampling-undersampling.ipynb).
