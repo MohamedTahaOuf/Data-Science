@@ -4,12 +4,12 @@
 
 1- Understand the data: You should ask suitable questions to understand the data very well.
 
-2- Data Wrangling: this is the first thing that we should make and that means the following:
+2- Data Wrangling: this is the first thing that we should do and that means the following:
 > Gather the data: That means getting the data from a source such as Excel, CSV, SQL...etcetera.
 > 
 > Cleaning Data: That is the next step after we assess the data, For sure almost the data we have needs to be clean such as if we have a duplicate or missing data so we need to clean the data to get the right result, Fortunately, we have pandas to fix it.
  
-3- Explotry Data Analysis or EDA: That is the final step in data analysis and for the perfect result we should use visualization such as plot, histogram, scatter plot ... etcetera, And here we will take the support from Matplotlib & Seaborn or ploty.
+3- Explotry Data Analysis or EDA: That is the final step in data analysis and for the perfect result we should use visualization such as plot, histogram, scatter plot ... etcetera, And here we will take the support from Matplotlib & Seaborn or Ploty.
 
 4- Convert the data into numbers: In this step, we will transform into machine learning and use the algorithm to predict the values, So we should convert any object values into numbers.
 
@@ -48,5 +48,6 @@
 
 - [x] [9- sales-store-dataset](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/009-%20sales-store-dataset.ipynb).
 
-
 - [x] [10- enzyme-substrate-dataset-tree](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/010-%20enzyme-substrate-dataset-tree.ipynb).
+
+- [x] [11- Bank Churn using CatBoostClassifier (CBC)](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/012-bank-churn-using-catboostclassifier-cbc.ipynb).
