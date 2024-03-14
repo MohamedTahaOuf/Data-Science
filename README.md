@@ -17,7 +17,7 @@
 
 6- Split the data into X (Features) and y (Label).
 
-7- Train test split: This is used to split the data into training data and this data is seen by the algorithm to train on it, And the test data is not provided to the algorithm to make sure that the algorithm is not only saved the answer.
+7- Train test split: This is used to split the data into training data and the algorithm sees this data to train on it, The test data is not provided to the algorithm to make sure that the algorithm is not only saving the answer to avoiding the overfitting.
 
 8- Using the perfect algorithm: In this step, we should try many algorithms to get the perfect one, Fortunately, we have the Sklearn library.
 
@@ -52,6 +52,6 @@
 
 - [x] [11- Bank Churn using CatBoostClassifier (CBC)](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/012-bank-churn-using-catboostclassifier-cbc.ipynb).
 
-- [x] [12- Kenya_Loan_analysis.ipynb](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/012-bank-churn-using-catboostclassifier-cbc.ipynb).
+- [x] [12- Kenya_Loan_analysis.ipynb](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/013-%20Kenya_Loan_analysis.ipynb).
 
 - [x] [13- Multi-Class Prediction of Obesity Risk)](https://github.com/MohamedTahaOuf/Data-Science-Pipeline-Tasks/blob/main/Data/014-%20multi-class-prediction-of-obesity-risk-919.ipynb).
